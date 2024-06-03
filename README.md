@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tamedbytella
+- 👋 Hi, I’m Shantella
 - 👀 I’m interested in learning to code and possibly create an app for beauty professionals.
 - 🌱 I’m currently learning Front End Web Development in a course with Udacity. 
 - 💞️ I’m looking to collaborate on projects to further enhance my skills.
